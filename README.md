@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Anton Setiazi 👋
 
-<!--
-**antonsetiazi/antonsetiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with strong backend understanding, focused on building scalable enterprise systems and modern business platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+- Atzee Platform — Modular ERP & business ecosystem
+- Enterprise dashboard systems
+- RBAC & permission-based UI architecture
+- Reusable frontend systems
+- Workflow & activity engines
+
+---
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Django
+- Python
+
+---
+
+## Engineering Interests
+
+- Enterprise Frontend Architecture
+- Product Engineering
+- ERP Systems
+- Scalable UI Systems
+- Business Workflows
+- System Design
+
+---
+
+## Contact
+
+- LinkedIn: linkedin.com/in/antonsetiazi
+- Email: antonsetiazi.dev@gmail.com
