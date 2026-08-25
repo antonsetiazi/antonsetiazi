@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anton Setiazi</h1>
+<h1 align="center">Hi, I'm Anton Setiazi</h1>
 <h3 align="center">Senior Full-Stack Consultant & Architect | Python (Django) & React (TypeScript) Expert</h3>
 <h4 align="center">17+ Years Building ERP, POS & Marketplace Systems | DevOps (Linux, NGINX, PostgreSQL)</h4>
 
